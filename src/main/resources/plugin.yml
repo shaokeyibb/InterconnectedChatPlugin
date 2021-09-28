@@ -1,0 +1,5 @@
+name: InterconnectedChatPlugin
+version: '${version}'
+main: io.hikarilan.interconnectedchatplugin.InterconnectedChatPlugin
+api-version: 1.13
+authors: [ HikariLan ]

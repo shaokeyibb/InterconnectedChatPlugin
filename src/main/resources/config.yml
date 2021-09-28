@@ -1,0 +1,5 @@
+query_period: 20
+last_index: -1
+remote_server_address: "http://127.0.0.1:8080"
+server_name: "server"
+chat_format: "[%server%]%message%"
