@@ -20,7 +20,7 @@
 
 ## 配置
 
-1. [部署和配置后端服务](https://github.com/shaokeyibb/InterConnectedChat/README-CN.md)
+1. [部署和配置后端服务](https://github.com/shaokeyibb/InterconnectedChat/blob/master/README-CN.md)
 
 2. 前往 `plugins/InterconnectedChatPlugin/config.yml`，该文件内容大致如下
 
